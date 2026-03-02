@@ -7,3 +7,4 @@
 |[Basic Pentesting](https://cyb3r-phantom.gitbook.io/basic-pentesting/)|Easy|
 |[UA High School](https://cyb3r-phantom.gitbook.io/ua-high-school/)|Easy|[Link](https://youtu.be/uDKztVbnGhM)|
 |[Billing](https://cyb3r-phantom.gitbook.io/billing)|Easy|[Link](https://youtu.be/7bD9IMXSt7A)|
+|[Pyrat](https://cyb3r-phantom.gitbook.io/pyrat)|Easy|
