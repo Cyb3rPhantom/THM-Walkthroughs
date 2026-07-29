@@ -1,4 +1,4 @@
-# TryHackMe Walkthroughs
+# TryHackMe Writeups
 
 | Room | Difficulty | Video |
 |--------------|------------------|-----------|
