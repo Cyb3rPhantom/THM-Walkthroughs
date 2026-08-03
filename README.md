@@ -18,3 +18,5 @@
 |[Day 4 - Packed Light](https://cyb3rphantom.com/thm/thebytelotus/day4.html)||
 |[Day 5 - Beach Bar](https://cyb3rphantom.com/thm/thebytelotus/day5.html)||
 |[Day 6 - Overheard at Breakfast](https://cyb3rphantom.com/thm/thebytelotus/day6.html)||
+|[Day 7 - Do Not Disturb](https://cyb3rphantom.com/thm/thebytelotus/day7.html)||
+|[Day 8 - Towel on the Sunbed](https://cyb3rphantom.com/thm/thebytelotus/day8.html)||
