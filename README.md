@@ -20,3 +20,4 @@
 |[Day 6 - Overheard at Breakfast](https://cyb3rphantom.com/thm/thebytelotus/day6.html)||
 |[Day 7 - Do Not Disturb](https://cyb3rphantom.com/thm/thebytelotus/day7.html)||
 |[Day 8 - Towel on the Sunbed](https://cyb3rphantom.com/thm/thebytelotus/day8.html)||
+|[Day 9 - CryptoCabana](https://cyb3rphantom.com/thm/thebytelotus/day9.html)||
