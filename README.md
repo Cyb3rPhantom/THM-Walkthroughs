@@ -21,3 +21,5 @@
 |[Day 7 - Do Not Disturb](https://cyb3rphantom.com/thm/thebytelotus/day7.html)||
 |[Day 8 - Towel on the Sunbed](https://cyb3rphantom.com/thm/thebytelotus/day8.html)||
 |[Day 9 - CryptoCabana](https://cyb3rphantom.com/thm/thebytelotus/day9.html)||
+|[Day 10 - The Hollow Shell](https://cyb3rphantom.com/thm/thebytelotus/day10.html)||
+|[Day 11 - Infinity Pool](https://cyb3rphantom.com/thm/thebytelotus/day11.html)||
