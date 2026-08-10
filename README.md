@@ -23,3 +23,6 @@
 |[Day 9 - CryptoCabana](https://cyb3rphantom.com/thm/thebytelotus/day9.html)||
 |[Day 10 - The Hollow Shell](https://cyb3rphantom.com/thm/thebytelotus/day10.html)||
 |[Day 11 - Infinity Pool](https://cyb3rphantom.com/thm/thebytelotus/day11.html)||
+|[Day 12 - After Hours](https://cyb3rphantom.com/thm/thebytelotus/day12.html)||
+|[Day 13 - The Guestbook](https://cyb3rphantom.com/thm/thebytelotus/day13.html)||
+|[Day 14 - Management Wants a Word](https://cyb3rphantom.com/thm/thebytelotus/day14.html)||
